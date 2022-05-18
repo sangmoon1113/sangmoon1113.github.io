@@ -1,8 +1,9 @@
 theme: jekyll-theme-tactile
 title: sangmoon1113
 description: Personal Notes
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:sangmoon1113@gmail.com
+categories:
+  - 윤동주
+tags:
+  - 서시
+  - 윤동주
+  - 시
