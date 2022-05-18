@@ -1,4 +1,7 @@
 ---
+layout: page
+title: Hello
+comment: true
 categories:
   - 윤동주
 tags:
