@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Kubenetes
-date: 2021-01-01 00:00:00 +0900
+permalink: /kubenetes/part-1
+title: Kubenetes (Part-1. 개요)
+date: 2021-02-01 00:00:00 +0900
 description: Kubenetes # Add post description (optional)
 img: logo-kubernetes.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Docker
+permalink: /docker/part-1
+title: Docker (Part-1. 개요)
 date: 2021-01-01 00:00:00 +0900
 description: Docker # Add post description (optional)
 img: logo-docker.png # Add image post (optional)
