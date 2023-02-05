@@ -23,6 +23,10 @@ discus-identifier: sangmoon1113-github-io # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-2DHBDFB8BR" # false (default), "google", "google-universal", "google-gtag", "custom"
+    anonymize_ip: # true, false (default)
 
 # Build Settings
 markdown: kramdown
