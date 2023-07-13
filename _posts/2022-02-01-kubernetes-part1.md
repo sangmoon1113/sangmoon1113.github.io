@@ -27,7 +27,7 @@ tags: [Kubenetes, k8s]
 * 인그레스는 클러스터 외부에서 클러스터 내부 서비스로 HTTP와 HTTPS 경로를 노출합니다.
 * 인그레스는 부하 분산, SSL 종료, 명칭 기반의 가상 호스팅을 제공할 수 있습니다.
 
-# reference
+# Reference
 * [쿠버네티스란 무엇인가?](https://kubernetes.io/ko/docs/concepts/overview/what-is-kubernetes/)
 * [파드](https://kubernetes.io/ko/docs/concepts/workloads/pods/)
 * [디플로이먼트](https://kubernetes.io/ko/docs/concepts/workloads/controllers/deployment/)

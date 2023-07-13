@@ -40,7 +40,7 @@ tags: [docker, container]
 ## Registry
 * 리포지토리에 대한 액세스를 제공하는 서비스입니다.
 
-# reference
+# Reference
 * [Docker](https://www.docker.com/)
 * [Docker란 무엇인가요?](https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/container-docker-introduction/docker-defined)
 * [Docker 용어](https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/container-docker-introduction/docker-terminology)
